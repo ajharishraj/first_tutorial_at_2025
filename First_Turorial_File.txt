@@ -1,1 +1,2 @@
 This is the session one of the file I created
+This is second line of my new file
